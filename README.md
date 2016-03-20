@@ -10,6 +10,8 @@ user to enter 1 to “n” items that contain the following fields:
 This web page should allow the user to enter these and keep a running
 total cost.  **Bonus points for adding the ability to calculate taxes!
 
+A live version can be used at: http://cashmayhem.azurewebsites.net/
+
 ###<b>Thoughts:</b>
 When I first approached this challenge, I thought of it in terms of a template that you could add features onto in the future. The first thing I did was sit down with 2 sheets of paper. The first one I used to plan out my classes and some data structures that would be contained in the library. The second sheet of paper I used to sketch out the layout. Although it's basic I am a visual person so I would rather see and picture what I am doing and working with. 
 
