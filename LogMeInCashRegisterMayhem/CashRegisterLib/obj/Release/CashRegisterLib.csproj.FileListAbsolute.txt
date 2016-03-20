@@ -1,0 +1,5 @@
+c:\Users\danwe\OneDrive\Documents\Visual Studio 2015\Projects\LogMeInCashRegisterMayhem\CashRegisterLib\bin\Release\CashRegisterLib.dll
+c:\Users\danwe\OneDrive\Documents\Visual Studio 2015\Projects\LogMeInCashRegisterMayhem\CashRegisterLib\bin\Release\CashRegisterLib.pdb
+c:\Users\danwe\OneDrive\Documents\Visual Studio 2015\Projects\LogMeInCashRegisterMayhem\CashRegisterLib\obj\Release\CashRegisterLib.dll
+c:\Users\danwe\OneDrive\Documents\Visual Studio 2015\Projects\LogMeInCashRegisterMayhem\CashRegisterLib\obj\Release\CashRegisterLib.pdb
+c:\Users\danwe\OneDrive\Documents\Visual Studio 2015\Projects\LogMeInCashRegisterMayhem\CashRegisterLib\obj\Release\CashRegisterLib.csprojResolveAssemblyReference.cache
